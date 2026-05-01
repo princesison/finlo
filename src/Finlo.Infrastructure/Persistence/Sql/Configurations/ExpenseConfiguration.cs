@@ -1,7 +1,7 @@
 using Finlo.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace Finlo.Infrastructure.Persistence.Configurations;
+namespace Finlo.Infrastructure.Persistence.Sql.Configurations;
 
 public class ExpenseConfiguration : IEntityTypeConfiguration<Expense>
 {

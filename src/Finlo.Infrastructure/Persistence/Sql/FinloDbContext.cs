@@ -2,7 +2,7 @@ using System.Reflection;
 using Finlo.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace Finlo.Infrastructure.Persistence;
+namespace Finlo.Infrastructure.Persistence.Sql;
 
 public class FinloDbContext : DbContext
 {

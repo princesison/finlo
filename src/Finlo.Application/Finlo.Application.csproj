@@ -14,8 +14,6 @@
     <Folder Include="Common\" />
     <Folder Include="Common\Interfaces\" />
     <Folder Include="Common\Interfaces\Repositories\" />
-    <Folder Include="Managers\" />
-    <Folder Include="Providers\" />
   </ItemGroup>
 
   <ItemGroup>
